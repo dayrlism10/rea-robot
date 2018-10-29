@@ -2,7 +2,7 @@
 
 Tech: Node JS
 
-Test Dependencies: Mochai
+Test Dependencies: Chai
 
 ## Installation & usage
 
